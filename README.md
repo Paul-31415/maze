@@ -1,11 +1,11 @@
 # maze
 programs for maze generation (and perhaps solving)
 
-use: python maze.py [<height> [<width> [<seconds to generate whole thing>]]]
+use: python maze.py [\<height\> [\<width\> [\<seconds to generate whole thing\>]]]
 
-use: python hexMaze.py [<height> [<width>]]
+use: python hexMaze.py [\<height\> [\<width\>]]
 
-use: python triMaze.py [<height> [<width>]]
+use: python triMaze.py [\<height\> [\<width\>]]
 
 
 
