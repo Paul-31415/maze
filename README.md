@@ -16,4 +16,5 @@ The directories contain example mazes of varying sizes (kerned and sized to look
 
 TODO: 
 •find a way to render a penrose tiling with ascii art and have it look believable
+
 •make a maze generator that works on a graph datatype
